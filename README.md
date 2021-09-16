@@ -84,7 +84,7 @@ MongoDB #2: \
 
 # Interesting Things that you can find on Shodan
 
-RDP/VNC's WITHOUT AUTH:
+RDP/VNC's WITHOUT AUTH: \
 `"authentication disabled" "RFB 003.008"`\
 `remote desktop "port:3389"`
 

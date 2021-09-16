@@ -95,14 +95,14 @@ MikroTik Routers: \
 `port:8291 os:"MikroTik RouterOS 6.45.9"`
 
 Minecraft Servers: \
-`"Minecraft Server" "protocol 340" port:25565`
+`"Minecraft Server" "protocol 340" port:25565` \
 ***There are too many minecraft servers lol***
 
 Smart TVs: \
 "Chromecast:" port:8008
 
 Maritime Satellites: \
-`"Cobham SATCOM" OR ("Sailor" "VSAT")`
+`"Cobham SATCOM" OR ("Sailor" "VSAT")` \
 ***Real-time location of ships via satelite***
 
 Tesla PowerPack Charging Status Page: \
@@ -110,6 +110,8 @@ Tesla PowerPack Charging Status Page: \
 
 Samsung Electronic Billboards: \
 `"Server: Prismview Player"`
+
+</br>
 
 # Info:
 ***Stuff that i've posted here are for educational purposes only.***\

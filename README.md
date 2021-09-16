@@ -110,3 +110,8 @@ Tesla PowerPack Charging Status Page: \
 
 Samsung Electronic Billboards: \
 `"Server: Prismview Player"`
+
+# Info:
+***Stuff that i've posted here are for educational purposes only.***\
+***Some dorks i found on different gits and different websites, so they ain't mine (most of em)***\
+***Send me better Shodan.io dorks that i can post on here to my discord at: exo?#0001***

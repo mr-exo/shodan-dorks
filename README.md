@@ -115,5 +115,5 @@ Samsung Electronic Billboards: \
 
 # Info:
 ***Stuff that i've posted here are for educational purposes only.***\
-***Some dorks i found on different gits and different websites, so they ain't mine (most of em)***\
-***Send me better Shodan.io dorks that i can post on here to my discord at: exo?#0001***
+***Some dorks i found on different gits and different websites***\
+***Send me better Shodan.io dorks that i can post on here - create an issue***

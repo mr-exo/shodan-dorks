@@ -97,7 +97,7 @@ Minecraft Servers: \
 `"Minecraft Server" "protocol 340" port:25565` \
 
 Smart TVs: \
-"Chromecast:" port:8008
+`"Chromecast:" port:8008`
 
 Maritime Satellites: \
 `"Cobham SATCOM" OR ("Sailor" "VSAT")` \

@@ -41,7 +41,6 @@ Some random webcams: \
 
 EternalBlue SMB RCE: \
 `os:"Windows 10 Home 19041`
-***please dont use this much :d***
 
 ProFTPD 1.3.5 (mod_copy exec; CVE-2015-3306) : \
 `"220 ProFTPD 1.3.5"`
@@ -96,7 +95,6 @@ MikroTik Routers: \
 
 Minecraft Servers: \
 `"Minecraft Server" "protocol 340" port:25565` \
-***There are too many minecraft servers lol***
 
 Smart TVs: \
 "Chromecast:" port:8008
@@ -112,8 +110,3 @@ Samsung Electronic Billboards: \
 `"Server: Prismview Player"`
 
 </br>
-
-# Info:
-***Stuff that i've posted here are for educational purposes only.***\
-***Some dorks i found on different gits and different websites***\
-***Send me better Shodan.io dorks that i can post on here - create an issue***

@@ -94,7 +94,7 @@ MikroTik Routers: \
 `port:8291 os:"MikroTik RouterOS 6.45.9"`
 
 Minecraft Servers: \
-`"Minecraft Server" "protocol 340" port:25565` \
+`"Minecraft Server" "protocol 340" port:25565`
 
 Smart TVs: \
 `"Chromecast:" port:8008`
